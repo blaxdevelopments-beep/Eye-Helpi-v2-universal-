@@ -1,0 +1,22 @@
+┌──────────────────────────────────────────────┐
+                    │            Eye~Helpi Voice & Text UI        │
+                    │   (Hands-Free Speech-to-Text / Audio Out)   │
+                    └──────────────────────┬───────────────────────┘
+                                           │
+                                           ▼
+                    ┌──────────────────────────────────────────────┐
+                    │               Eye~Helpi Core                 │
+                    │      (Intent Router & Context Manager)       │
+                    └──────┬───────────────┼───────────────┬───────┘
+                           │               │               │
+            ┌──────────────┴──────┐ ┌──────┴──────┐ ┌──────┴─────────────┐
+            │   Device Guardian   │ │ Zero-Touch  │ │    Ecosystem &     │
+            │  (Battery & System) │ │   Builder   │ │ Administrative Core│
+            └──────────────┬──────┘ └──────┬──────┘ └──────┬─────────────┘
+                           │               │               │
+       ┌───────────────────┴───┐     ┌─────┴──────┐  ┌─────┴──────────────┐
+       │ - OS Profiler         │     │ - GPT-4    │  │ - Gov Stimulus Nav │
+       │ - Power Optimization  │     │   Codegen  │  │ - Legacy Farms Log │
+       │ - Background Activity │     │ - Vercel   │  │ - Yaran Muliya     │
+       │ - User Consent Gates  │     │   Deployer │  │   Dual-Wallet API  │
+       └───────────────────────┘     └────────────┘  └────────────────────┘
